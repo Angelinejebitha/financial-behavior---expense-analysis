@@ -32,6 +32,12 @@ This project is an interactive Power BI dashboard designed to analyze personal f
 - Created custom columns
 - Built data pipeline using Power Query
 
+**💻 Data Analysis Workflow**
+- Data cleaned and transformed using Power Query
+- SQL used for data validation and aggregation
+- Python used for exploratory data analysis and trend identification
+- Power BI used for interactive dashboard visualization
+
 **📌 Key Insights**
 - Majority of spending is in Home and Grocery categories
 - Savings fluctuate significantly across months
